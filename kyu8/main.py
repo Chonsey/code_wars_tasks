@@ -4,7 +4,6 @@ from opposite_number import opposite
 from calculate_average import find_average
 from abbreviate_a_two_word_name import abbrev_name
 
-
 user_input = ('hello', 'world', 'this', 'is', 'great')
 result = smash(user_input)
 print(result)
